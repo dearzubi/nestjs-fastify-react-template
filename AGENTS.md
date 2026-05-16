@@ -13,7 +13,8 @@ working in this repo. Read it before touching code.
 - **Conventional commits:** All commit messages and PR titles.
   Lefthook + commitlint enforce.
 - **Conventional branch names:** Use a conventional type prefix followed
-  by a slash, such as `fix/`, `feat/`, `chore/`, `docs/`, or `refactor/`.
+  by a slash, such as `ci/`, `fix/`, `feat/`, `chore/`, `docs/`, or
+  `refactor/`.
 - **Commit subject only.** Never add a commit body unless the user
   explicitly asks for one. The subject line is the whole message by
   default.
